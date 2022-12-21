@@ -18,7 +18,6 @@
           p.mb-0 Apreciado aprendiz, bienvenido a este componente formativo, donde se abordarán los requisitos aplicables de la normativa ambiental, la normativa de calidad, la norma de seguridad, la norma de producto y las normas técnicas y normas obligatorias. Se estudiarán los requisitos legales y, para finalizar, se abordará el concepto de matriz legal y la técnica para su elaboración.
 
     .row.mb-5
-      p Apreciado aprendiz, bienvenido a este componente formativo, donde se abordarán los requisitos aplicables de la normativa ambiental, la normativa de calidad, la norma de seguridad, la norma de producto y las normas técnicas y normas obligatorias. Se estudiarán los requisitos legales y, para finalizar, se abordará el concepto de matriz legal y la técnica para su elaboración
       p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
 
     .row.mb-5(data-aos="fade-down")

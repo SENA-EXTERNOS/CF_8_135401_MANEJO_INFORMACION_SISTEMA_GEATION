@@ -51,70 +51,70 @@
       SlyderF(columnas="col-lg-6 col-xl-4")
         .tarjeta.tarjeta--morada.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-10
               img(src='@/assets/curso/temas/tema3/img3.svg' alt='AvatarTop')
           h4.text-center Capítulo 1
           p.text-center Alcance.
 
         .tarjeta.tarjeta--morada.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-10
               img(src='@/assets/curso/temas/tema3/img4.svg' alt='AvatarTop')
           h4.text-center Capítulo 2
           p.text-center Referencias normativas.
 
         .tarjeta.tarjeta--morada.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-10
               img(src='@/assets/curso/temas/tema3/img5.svg' alt='AvatarTop')
           h4.text-center Capítulo 3
           p.text-center Términos y definiciones.
 
         .tarjeta.tarjeta--morada.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-10
               img(src='@/assets/curso/temas/tema3/img6.svg' alt='AvatarTop')
           h4.text-center Capítulo 4
           p.text-center Contexto de la empresa.
 
         .tarjeta.tarjeta--morada.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-10
               img(src='@/assets/curso/temas/tema3/img7.svg' alt='AvatarTop')
           h4.text-center Capítulo 5
           p.text-center Liderazgo.
 
         .tarjeta.tarjeta--morada.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-10
               img(src='@/assets/curso/temas/tema3/img8.svg' alt='AvatarTop')
           h4.text-center Capítulo 6
           p.text-center Planificación.
 
         .tarjeta.tarjeta--morada.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-10
               img(src='@/assets/curso/temas/tema3/img9.svg' alt='AvatarTop')
           h4.text-center Capítulo 7
           p.text-center Soporte.
 
         .tarjeta.tarjeta--morada.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-10
               img(src='@/assets/curso/temas/tema3/img10.svg' alt='AvatarTop')
           h4.text-center Capítulo 8
           p.text-center Operación.
 
         .tarjeta.tarjeta--morada.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-10
               img(src='@/assets/curso/temas/tema3/img11.svg' alt='AvatarTop')
           h4.text-center Capítulo 9
           p.text-center Evaluación del desempeño.
 
         .tarjeta.tarjeta--morada.p-4
           .row.justify-content-center.mb-3
-            .col-8
+            .col-10
               img(src='@/assets/curso/temas/tema3/img12.svg' alt='AvatarTop')
           h4.text-center Capítulo 10
           p.text-center Mejora.
