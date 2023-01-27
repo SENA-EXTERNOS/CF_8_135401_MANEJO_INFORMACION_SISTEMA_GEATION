@@ -45,7 +45,7 @@
           p Es la compilación de los requisitos normativos exigibles a la empresa, acorde con las actividades propias e inherentes de su actividad productiva, los cuales dan lineamientos normativos y técnicos para desarrollar un Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST), el cual deberá actualizarse en la medida que sean emitidas nuevas disposiciones aplicables.
 
     .row.mb-3
-      p Y para ampliar el tema, lo invitamos a ver el siguiente video.
+      p Y para ampliar el tema, lo invitamos a ver el siguiente video:
 
     .row.mb-5(data-aos="fade-down")
       figure
@@ -82,7 +82,7 @@
 
     .row.mb-3
       p Cuando se tienen claras las normativas que debe seguir quien elabora la matriz legal o de requisitos legales, es momento de centrar la atención, entonces, en los pasos para su elaboración.
-      p ¿Cuáles son esos pasos? Conózcalos a continuación.
+      p ¿Cuáles son esos pasos? Conózcalos a continuación:
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -90,8 +90,7 @@
           LineaTiempoB.color-acento-contenido.mb-5(:datos="datosLineaTiempoB")
 
     .row.mb-5
-      p La matriz de requisitos legales debe incluir, en su formato, una serie de información dispuesta en columnas. A continuación se presenta el diseño, la distribución y particularidades de dicho formato.
-
+      p La matriz de requisitos legales debe incluir, en su formato, una serie de información dispuesta en columnas. A continuación, se presentan el diseño, la distribución y las particularidades de dicho formato:
 
     ImagenInfografica.color-acento-botones
       template(v-slot:imagen)

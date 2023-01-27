@@ -112,18 +112,12 @@ export default {
       link: 'https://www.youtube.com/watch?v=TEKS9R0nLEY',
     },
     {
-      tema: 'Normativa',
+      tema: 'Requisitos legales para los diferentes sistemas de gestión',
       referencia:
-        'Virtual Training Lteam. (2015). ISO 9001:2015 (video). YouTube.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=TEKS9R0nLEY',
-    },
-    {
-      tema: 'Normativa',
-      referencia:
-        'Virtual Training Lteam. (2018). ISO 45001:2015 (video). YouTube.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=JWjnou76O6I',
+        'ISOTools. (s.f.). Herramientas tecnológicas para la gestión de GRC.',
+      tipo: 'Artículo',
+      link:
+        'https://www.isotools.org/2020/10/30/herramientas-tecnologicas-para-la-gestion-de-grc/',
     },
     {
       tema: 'Normativa',
