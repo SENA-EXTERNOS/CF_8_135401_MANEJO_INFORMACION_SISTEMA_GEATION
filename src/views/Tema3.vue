@@ -194,38 +194,76 @@
     .row.justify-content-center.mb-5
       .col-lg-7
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
-          .row(titulo="Contexto de la organización")
-            h4 Subnumeral 4.1 Comprensión de la organización y su contexto. 
-            p.ps-3.ps-lg-5 #[strong Nota 2.] El conocimiento del contexto externo puede verse facilitado al considerar cuestiones que surgen de los entornos legal, tecnológico, competitivo, de mercado, cultural, social y económico, ya sea internacional, nacional, regional o local.
+          .row.justify-content-center.align-items-center(titulo="Contexto de la organización")
+            .col-11
+              h4 4.1 Comprensión de la organización y su contexto  
+              p.ps-4 La organización debe determinar las cuestiones externas e internas que son pertinentes para su propósito y su dirección estratégica, y que afectan a su capacidad para lograr los resultados previstos de su sistema de gestión de la calidad.
 
-          .row(titulo="Subnumeral 4.2 Comprensión de las necesidades y expectativas de las partes interesadas")
-            p Debido a su efecto o potencial en la capacidad de la organización para proporcionar, regularmente, productos y servicios que satisfagan los requisitos del cliente y los legales y reglamentarios aplicables.
+              h4 4.2 Comprensión de las necesidades y expectativas de las partes interesadas 
+              p.ps-4  Debido a su efecto o potencial en la capacidad de la organización para proporcionar, regularmente, productos y servicios que satisfagan los requisitos del cliente y los legales y reglamentarios aplicables.
+              h4 4.4 Sistema de gestión de la calidad y sus procesos 
+              p.ps-4 <b>4.4.1</b> La organización debe establecer, implementar, mantener y mejorar continuamente un sistema de gestión de la calidad, incluidos los procesos necesarios y sus interacciones, de acuerdo con los requisitos de esta Norma Internacional.   
+          .row.justify-content-center.align-items-center(titulo="5. Liderazgo ")
+            .col-11
+              h4 5.1 Liderazgo y compromiso 
+              p.ps-4 <b>5.1.1 Generalidades:</b> la alta dirección debe demostrar liderazgo y compromiso con respecto al sistema de gestión de la calidad.
+              h4 5.1.2 Enfoque al cliente 
+              p.ps-4 La alta dirección debe demostrar liderazgo y compromiso con respecto al enfoque al cliente asegurándose de que: 
+              ol.lista-ol--cuadro.ps-5
+                li 
+                  span.text-bold a.
+                  p.mb-0 Se determinan, se comprenden y se cumplen regularmente los requisitos del cliente y los legales y reglamentarios aplicables; ISO 9001:2015.
+              p.ps-4 La organización debe determinar las comunicaciones internas y externas pertinentes al sistema de gestión de la calidad.                              
+          .row.justify-content-center.align-items-center(titulo="8. Operación")
+            .col-11
+              h4 8.1 Planificación y control operacional 
+              p.ps-4 La organización debe planificar, implementar y controlar los procesos (véase 4.4) necesarios para cumplir los requisitos para la provisión de productos y servicios, para implementar las acciones determinadas. 
+              h4 8.2 Requisitos para los productos y servicios 
+              p.ps-4 <b>8.2.2 Determinación de los requisitos para los productos y servicios: </b>cuando se determinan los requisitos para los productos y servicios que se van a ofrecer a los clientes. 
 
-          .row(titulo="Subnumeral 5.1.2 Enfoque al cliente")
-            p #[strong a)] Se determinan, se comprenden y se cumplen, de forma consistente, los requisitos del cliente, los legales y reglamentarios aplicables.
+              p.ps-4 <b>8.2.3 Revisión de los requisitos para los productos y servicios:</b> la organización debe llevar a cabo una revisión antes de comprometerse a suministrar productos y servicios a un cliente, para incluir: 
+              ol.lista-ol--cuadro.ps-5
+                li 
+                  span.text-bold d.
+                  p.mb-0 Los requisitos legales y reglamentarios adicionales aplicables a los productos y servicios.  
 
-          .row(titulo="Subnumeral 8.2.2 Determinación de los requisitos para los productos y servicios")
-            p Cuando se determinan los requisitos para los productos y servicios que se van a ofrecer a los clientes, la organización debe asegurarse que:
-            p Los requisitos para los productos y servicios se definen, incluyendo: 
-            p.ps-3 #[strong a)] cualquier requisito legal y reglamentario aplicable.
+              h4 8.3 Diseño y desarrollo de los productos y servicios 
+              p.ps-4 La organización debe considerar: 
+              ol.lista-ol--cuadro.ps-5
+                li 
+                  span.text-bold a.
+                  p.mb-0 Los requisitos funcionales y de desempeño.
+                li 
+                  span.text-bold b.
+                  p.mb-0 Los requisitos legales y reglamentarios.                                                    
+              h4 8.4 Control de los procesos, productos y servicios suministrados externamente 
+              p.ps-4 <b>8.4.1 Generalidades:</b> la organización debe asegurarse de que los procesos, productos y servicios suministrados externamente son conformes a los requisitos. 
+              p.ps-4 <b>8.4.2 Tipo y alcance del control</b> 
+              ol.lista-ol--cuadro.ps-5
+                li 
+                  span.text-bold c.
+                  p.mb-0 Tener en consideración: 
+                ul.lista-ol--cuadro.ps-2
+                  li 
+                    span.text-bold 1.
+                    p.mb-0 El impacto potencial de los procesos, productos y servicios suministrados externamente, en la capacidad de la organización para cumplir regularmente los requisitos del cliente y los legales y reglamentarios aplicables. 
 
-          .row(titulo="Subnumeral 8.2.3 Revisión de los requisitos para los productos y servicios")
-            p Subnumeral 8.2.3.1 la organización debe llevar a cabo una revisión antes de comprometerse a suministrar productos y servicios a un cliente, para incluir:
-            p.ps-3 #[strong d)] Los requisitos legales y reglamentarios adicionales aplicables a los productos y servicios.
-     
-          .row(titulo="Subnumeral 8.3.3 Entradas para el diseño y desarrollo")
-            p La organización debe considerar:
-            p.ps-3 #[strong a)] Los requisitos funcionales y de desempeño.
-            p.ps-3 #[strong b)] Los requisitos legales y reglamentarios.
+              h4 8.5 Producción y provisión del servicio
+              p.ps-4 <b>8.5.5 Actividades posteriores a la entrega:</b> al determinar el alcance de las actividades posteriores que se requieren a la entrega, la organización debe considerar: 
+              ol.lista-ol--cuadro.ps-5
+                li 
+                  span.text-bold a.
+                  p.mb-0 Los requisitos legales y reglamentarios.
 
-          .row(titulo="Subnumeral 8.4.2 Tipo y alcance del control")
-            p.ps-3 #[strong c)] Tener en consideración:
-            p.ps-3.ps-lg-5 #[strong 1)] El impacto potencial de los procesos, productos y servicios suministrados externamente, en la capacidad de la organización para cumplir regularmente los requisitos del cliente y los legales y reglamentarios aplicables.
+              h4 8.6 Liberación de los productos y servicios 
+              p.ps-4 La organización debe implementar las disposiciones planificadas, en las etapas adecuadas, para verificar que se cumplen los requisitos de los productos y servicios.   
 
-
-          .row(titulo="Subnumeral 8.5.5 Actividades posteriores a la entrega")
-            p Al determinar el alcance de las actividades posteriores que se requieren a la entrega, la organización debe considerar:
-            p.ps-3 #[strong a)] Los requisitos legales y reglamentarios.
+              h4 8.7 Control de las salidas no conformes 
+              p.ps-4 <b>8.7.1</b> Al determinar el alcance de las actividades posteriores que se requieren a la entrega, la organización debe considerar.                         
+          .row.justify-content-center.align-items-center(titulo="10. Mejora ")
+            .col-11
+              h4 10.1 Generalidades 
+              p.ps-4 La organización debe determinar y seleccionar las oportunidades de mejora e implementar cualquier acción necesaria para cumplir los requisitos del cliente y las partes interesadas. 
 
       .col-lg-5.mb-4
         figure
@@ -258,51 +296,130 @@
 
       .col-lg-7
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
-          .row(titulo="6.1.3 Requisitos legales y otros requisitos")
-            p La organización debe:
-            p.ps-3 #[strong a)] determinar y tener acceso a los requisitos legales y otros requisitos relacionados con sus aspectos ambientales.
-            p.ps-3 #[strong b)] determinar cómo estos requisitos legales y otros requisitos, se aplican a la organización.
-            p.ps-3 #[strong c)] tener en cuenta estos requisitos legales y otros requisitos, cuando se establezca, implemente, mantenga y mejore continuamente, su sistema de gestión ambiental.
-            p La organización debe mantener información documentada de sus requisitos legales y otros requisitos.
+          .row.justify-content-center.align-items-center(titulo="4.1 Contexto de la organización")
+            .col-11
+              p La organización debe determinar las cuestiones externas e internas que son pertinentes para su propósito y que afectan a su capacidad para lograr los resultados previstos de su sistema de gestión ambiental.
+              h4 4.2 Comprensión de las necesidades y expectativas de las partes interesadas
+              p.ps-4 La organización debe determinar: 
+              ol.lista-ol--cuadro.ps-5
+                li 
+                  span.text-bold a.
+                  p.mb-0 Las partes interesadas que son pertinentes al sistema de gestión ambiental. 
+                li 
+                  span.text-bold b.
+                  p.mb-0 Las necesidades y expectativas pertinentes (es decir, requisitos) de estas partes interesada.
+                li 
+                  span.text-bold c.
+                  p.mb-0 Cuáles de estas necesidades y expectativas se convierten en requisitos legales y otros requisitos.   
+              h4 4.3 Determinación del alcance del sistema de gestión ambiental
+              p.ps-4 La organización debe determinar los límites y la aplicabilidad del sistema de gestión ambiental para establecer su alcance.  
+              h4 4.4 Sistema de gestión ambiental
+              p.ps-4 Para lograr los resultados previstos, incluida la mejora de su desempeño ambiental, la organización debe establecer, implementar, mantener y mejorar continuamente un sistema de gestión ambiental, que incluya los procesos necesarios y sus interacciones, de acuerdo con los requisitos de esta Norma Internacional.
+          .row.justify-content-center.align-items-center(titulo="5.2 Política ambiental")
+            .col-11
+              p La política ambiental debe: 
+              ol.lista-ol--cuadro.ps-2
+                li 
+                  span.text-bold -
+                  p.mb-0 Mantenerse como información documentada.
+                li 
+                  span.text-bold -
+                  p.mb-0 Comunicarse dentro de la organización.
+                li 
+                  span.text-bold -
+                  p.mb-0 Estar disponible para las partes interesadas. 
+          .row.justify-content-center.align-items-center(titulo="6.1 Acciones para abordar riesgos y oportunidades")
+            .col-11
+              h4 6.1.1 Generalidades  
+              p.ps-4 La organización debe establecer, implementar y mantener los procesos necesarios para cumplir los requisitos.
 
-          .row(titulo="6.1.3 Requisitos legales y otros requisitos")
-            p La organización determina con un nivel de detalle suficiente, los requisitos legales y otros requisitos que ha identificado en el apartado. 
-            p.ps-3 #[strong 4.2 )] Que son aplicables a sus aspectos ambientales y cómo se aplican a la organización.
-            p Los requisitos legales y otros requisitos, incluyen los requisitos legales que la organización debe cumplir, y los demás requisitos que la organización tiene que cumplir o que decide cumplir.
+              h4 6.1.2 Aspectos ambientales 
+              p.ps-4 Dentro del alcance definido del sistema de gestión ambiental, la organización debe determinar los aspectos ambientales de sus actividades, productos y servicios que puede controlar y de aquellos en los que puede influir, y sus impactos ambientales asociados, desde una perspectiva de ciclo de vida.
 
-          .row(titulo="4.2 Comprensión de las necesidades y expectativas de las partes interesadas")
-            p.ps-3 #[strong c)] Cuáles de estas necesidades y expectativas se convierten en requisitos legales y otros requisitos.
-
-          .row(titulo="5.2 Política Ambiental")
-            p La alta dirección debe establecer, implementar y mantener una política ambiental que, dentro del alcance definido de su sistema de gestión ambiental:
-            p.ps-3 #[strong a)] Incluya un compromiso para cumplir con los requisitos legales y otros requisitos.
-
-          .row(titulo="6.1.4 Planificación de las acciones")
-            p La organización debe planificar:
-            p.ps-3 #[strong 2)] Requisitos legales y otros requisitos.
-
-          .row(titulo="7.3 Toma de conciencia")
-            p La organización debe asegurarse que las personas que realicen el trabajo bajo el control de la organización, tomen conciencia de: 
-            p.ps-3 #[strong a)] Las implicaciones de no satisfacer los requisitos del sistema de gestión ambiental, incluido el incumplimiento de los requisitos legales y otros requisitos de la organización.
-
-          .row(titulo="7.4 Comunicación")
-            p Cuando establece sus procesos de comunicación, la organización debe:
-            ul.lista-ul
-              li
-                ul
+              h4 6.1.3 Requisitos legales y otros requisitos 
+              p.ps-4 La organización debe: 
+              ol.lista-ol--cuadro.ps-5
+                li 
+                  span.text-bold a.
+                  p.mb-0 Determinar y tener acceso a los requisitos legales y otros requisitos relacionados con sus aspectos ambientales. 
+                li 
+                  span.text-bold b.
+                  p.mb-0 Determinar cómo estos requisitos legales y otros requisitos, se aplican a la organización.
+                li 
+                  span.text-bold c.
+                  p.mb-0 Tener en cuenta estos requisitos legales y otros requisitos, cuando se establezca, implemente, mantenga y mejore continuamente, su sistema de gestión ambiental.                   
+              h4 6.1.4 Planificación de acciones 
+              p.ps-4 La organización debe planificar:  
+              ol.lista-ol--cuadro.ps-5
+                li 
+                  span.text-bold a.
+                  p.mb-0 La toma de acciones para abordar sus: 
+                ul.lista-ol--cuadro.ps-2
                   li 
-                    i.lista-ul__vineta
-                    | Tener en cuenta sus requisitos legales y otros requisitos;
+                    span.text-bold 1.
+                    p.mb-0 Aspectos ambientales significativos. 
                   li 
-                    i.lista-ul__vineta
-                    | Igual que la comunicación externa.
+                    span.text-bold 2.
+                    p.mb-0 Requisitos legales y otros requisitos. 
+                  li 
+                    span.text-bold 3.
+                    p.mb-0 Riesgos y oportunidades identificados.                     
+              h4 6.1 Acciones para abordar riesgos y oportunidades 
+              p.ps-4 La organización debe establecer objetivos ambientales para las funciones y niveles pertinentes, teniendo en cuenta los aspectos ambientales significativos de la organización y sus requisitos legales y otros requisitos asociados, y considerando sus riesgos y oportunidades.
 
-          .row(titulo="9.1.1 Evaluación del cumplimiento")
-            p La organización debe establecer, implementar y mantener los procesos necesarios para evaluar el cumplimiento de sus requisitos legales y otros requisitos.
-            p.ps-3 #[strong a)] determinar la frecuencia con la que se evaluará el cumplimiento.
-            p.ps-3 #[strong b)] evaluar el cumplimiento y emprender las acciones que fueran necesarias.
-            p.ps-3 #[strong c)] mantener el conocimiento y la comprensión de su estado de cumplimiento.
+              p.ps-4 La organización debe planificar cómo se pueden integrar las acciones para el logro de sus objetivos ambientales a los procesos de negocio de la organización.                                           
+          .row.justify-content-center.align-items-center(titulo="7.3 Toma de conciencia")
+            .col-11
+              p La organización debe asegurarse que las personas que realicen el trabajo bajo el control de la organización, tomen conciencia de: 
+              ol.lista-ol--cuadro.ps-2
+                li 
+                  span.text-bold a.
+                  p.mb-0 Las implicaciones de no satisfacer los requisitos del sistema de gestión ambiental, incluido el incumplimiento de los requisitos legales y otros requisitos de la organización. 
 
+              h4 7.4 Comunicación 
+              p.ps-4 Cuando establece sus procesos de comunicación, la organización debe: 
+              ol.lista-ol--cuadro.ps-5
+                li 
+                  span.text-bold -
+                  p.mb-0 Tener en cuenta sus requisitos legales y otros requisitos;
+                li 
+                  span.text-bold -
+                  p.mb-0 Igual que la comunicación externa.
+                   
+          .row.justify-content-center.align-items-center(titulo="8. Operación")
+            .col-11
+              h4 8.1 Planificación y control operacional
+              p.ps-4 La organización debe establecer, implementar, controlar y mantener los procesos necesarios para satisfacer los requisitos del sistema de gestión ambiental y para implementar las acciones determinadas. en los apartados 6.1 y 6.2, mediante:
+ 
+              ol.lista-ol--cuadro.ps-5
+                li 
+                  span.text-bold -
+                  p.mb-0 El establecimiento de criterios de operación para los procesos.
+                li 
+                  span.text-bold -
+                  p.mb-0 La implementación del control de los procesos de acuerdo con los criterios de operación.
+ 
+          .row.justify-content-center.align-items-center(titulo="9. Evaluación del desempeño")
+            .col-11
+              h4 9.1 Seguimiento, medición, análisis y evaluación  
+              p.ps-4 <b>9.1.1 Generalidades:</b> la organización debe hacer seguimiento, medir, analizar y evaluar su desempeño ambiental. 
+              p.ps-4 <b>9.1.2 Evaluación del cumplimiento:</b> la organización debe establecer, implementar y mantener los procesos necesarios para evaluar el cumplimiento de sus requisitos legales y otros requisitos.
+              ol.lista-ol--cuadro.ps-5
+                li 
+                  span.text-bold a.
+                  p.mb-0 Determinar la frecuencia con la que se evaluará el cumplimiento.
+                li 
+                  span.text-bold b.
+                  p.mb-0 Evaluar el cumplimiento y emprender las acciones que fueran necesarias.
+                li 
+                  span.text-bold c.
+                  p.mb-0 Mantener el conocimiento y la comprensión de su estado de cumplimiento.                                  
+          .row.justify-content-center.align-items-center(titulo="10. Mejora")
+            .col-11
+              h4 10.1 Generalidades
+              p.ps-4 La organización debe determinar las oportunidades de mejora e implementar las acciones necesarias para lograr los resultados previstos en su sistema de gestión ambiental.  
+              h4 10.2 No conformidad y acción correctiva
+              p.ps-4 Las acciones correctivas deben ser apropiadas a la importancia de los efectos de las no conformidades encontradas, incluidos los impactos ambientales.           
     .row.mb-5
       p Los requisitos legales mencionados en la norma y que están relacionados con los aspectos ambientales correspondientes a una organización, pueden incluir, en caso de ser aplicables:
 
@@ -356,62 +473,72 @@
     .row.justify-content-center.mb-5
       .col-lg-7
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
-          .row(titulo="6.1.3 Determinación de los requisitos legales y otros requisitos")
-            p La organización debe establecer, implementar y mantener procesos para:
-            p.ps-3 #[strong a)] Determinar y tener acceso a los requisitos legales y otros requisitos actualizados que son aplicables a sus peligros, riesgos y su SGSST.
-            p.ps-3 #[strong b)] Determinar cómo estos requisitos legales y otros requisitos aplican a la organización y qué necesita comunicarse.
-            p.ps-3 #[strong c)] Tener en cuenta estos requisitos legales y otros requisitos al establecer, implementar y mejorar de manera continua su sistema de gestión SST.
-            p La organización debe mantener información documentada de sus requisitos legales y otros requisitos. 
+          .row.justify-content-center.align-items-center(titulo="6. Planificación")
+            .col-11
+              h4 6.1 Acciones para abordar riesgos y oportunidades
+              p.ps-4 <b>6.1.1 Generalidades:</b> al determinar los riesgos y oportunidades para el SG-SST y sus resultados previstos que es necesario abordar, la organización debe tener en cuenta: *los requisitos legales y otros requisitos (<b>véase 6.1.3</b>) 
+              p.ps-4 <b>6.1.3 Determinación de los requisitos legales y otros requisitos:</b> la organización debe establecer, implementar y mantener procesos para: 
+              ol.lista-ol--cuadro.ps-5
+                li 
+                  span.text-bold a.
+                  p.mb-0 Determinar y tener acceso a los requisitos legales y otros requisitos actualizados que son aplicables a sus peligros, riesgos y su SGSST.  
+                li 
+                  span.text-bold b.
+                  p.mb-0 Determinar cómo estos requisitos legales y otros requisitos aplican a la organización y qué necesita comunicarse. 
+                li 
+                  span.text-bold c.
+                  p.mb-0 Tener en cuenta estos requisitos legales y otros requisitos al establecer, implementar y mejorar de manera continua su sistema de gestión SST. 
+              p.ps-4 La organización debe mantener información documentada de sus requisitos legales y otros requisitos. 
+              h4 Anexo 6.1.2.3 
+              p.ps-4 Los requisitos legales pueden incluir:
+              p.ps-4 Legislación (nacional, regional e internacional), incluyendo estatutos y reglamentos y otras normas jurídicas como decretos, permisos, licencias entre otros.
 
-          .row(titulo="Anexo 6.1.2.3")
-            p Los requisitos legales pueden incluir:
-            p.mb-4 Legislación (nacional, regional e internacional), incluyendo estatutos y reglamentos y otras normas jurídicas como decretos, permisos, licencias entre otros.
-            p Otros requisitos pueden incluir:
-            p Requisitos de la organización, contractuales, acuerdos con los empleados y partes interesadas.
+              p.ps-4 Otros requisitos pueden incluir:
+              p.ps-4 Requisitos de la organización, contractuales, acuerdos con los empleados y partes interesadas.
+              p.ps-4 <b>6.3 Factores de éxito</b>
+              ol.lista-ol--cuadro.ps-5
+                li 
+                  span.text-bold k.
+                  p.mb-0 El cumplimiento de los requisitos legales y otros requisitos. 
+              h4 6.1.4 Planificación de acciones
+              p.ps-4 La organización debe planificar: 
+              ol.lista-ol--cuadro.ps-5
+                li 
+                  span.text-bold a.
+                  p.mb-0 Las acciones para:
+                ul.lista-ol--cuadro.ps-2
+                  li 
+                    span.text-bold 2.
+                    p.mb-0 Abordar los requisitos legales y otros requisitos.                                         
+          .row.justify-content-center.align-items-center(titulo="7.4 Comunicación")
+            .col-11
+              h4 7.4.1 Generalidades.
+              h4 7.4.3 Comunicación externa.
+              p.ps-4 Al establecer sus procesos de comunicación, la organización debe: *tener en cuenta sus requisitos legales y otros requisitos. 
 
-          .row(titulo="6.3 Factores de éxito")
-            p.ps-3 #[strong k)] El cumplimiento de los requisitos legales y otros requisitos.
-
-          .row(titulo="6.0 Planificación")
-            p.ps-3 #[strong 6.1] Acciones para abordar riesgos y oportunidades
-            p.ps-3 #[strong 6.1.1] Generalidades
-            p.ps-5 Al determinar los riesgos y oportunidades para el SG-SST y sus resultados previstos que es necesario abordar, la organización debe tener en cuenta:
-            p.ps-5 *los requisitos legales y otros requisitos #[strong (véase 6.1.3)]
-
-          .row(titulo="6.1.4 Planificación de acciones")
-            p La organización debe planificar:
-            p.ps-3 #[strong a)] Las acciones para:
-            p.ps-5 #[strong 2)] abordar los requisitos legales y otros requisitos #[strong (véase 6.1.3)].
-
-          .row(titulo="7.4 Comunicación")
-            p.ps-3 #[strong 7.4.1] Generalidades.
-            p.ps-3 #[strong 7.4.3] Comunicación externa
-            p.ps-5 Al establecer sus procesos de comunicación, la organización debe: *tener en cuenta sus requisitos legales y otros requisitos.
-
-          .row(titulo="8.1.3 Gestión del cambio")
-            p La organización debe asegurarse que sus acuerdos en materia de contratación externa son coherentes con los requisitos legales y otros requisitos.
-
-          .row(titulo="8.1.4.3 Contratación externa")
-            p La organización debe establecer procesos para la implementación y el control de los cambios planificados temporales y permanentes, que impactan en el desempeño de la SST, incluyendo:
-            p.ps-3 #[strong b)] cambios en los requisitos legales y otros requisitos.
-
-          .row(titulo="9 Evaluación de desempeño")
-            p #[strong 9.1] Seguimiento, medición, análisis y evaluación del desempeño
-            p.ps-3 #[strong 9.1.1] Generalidades
-            p.ps-5 #[strong 1)] el grado en que se cumplen los requisitos legales y otros requisitos.
-
-          .row(titulo="9.1.2 Evaluación del cumplimiento")
-            p La organización debe establecer, implementar y mantener procesos para evaluar el cumplimiento con los requisitos legales y otros requisitos. #[strong (véase 6.1.3)].
-            p La organización debe:
-            p.ps-3 #[strong c)] mantener el conocimiento y la comprensión de su estado de cumplimiento con los requisitos legales y otros requisitos.
-            p En relación con la Seguridad y Salud en el Trabajo, el marco jurídico colombiano contempla los siguientes elementos: 
-            ul.lista-ul--color
-              li 
-                i.fas.fa-circle.color-vineta1
-                | Decreto 1072 de 2015.
-              li 
-                i.fas.fa-circle.color-vineta1
-                | Resolución 0312 de 2019.           
+          .row.justify-content-center.align-items-center(titulo="8.1.3 Gestión del cambio")
+            .col-11
+              p La organización debe establecer procesos para la implementación y el control de los cambios planificados temporales y permanentes, que impactan en el desempeño de la SST, incluyendo:
+              ol.lista-ol--cuadro.ps-2
+                li 
+                  span.text-bold b.
+                  p.mb-0 Cambios en los requisitos legales y otros requisitos. 
+              h4 8.1.4.3 Contratación externa
+              p.ps-4 La organización debe asegurarse que sus acuerdos en materia de contratación externa son coherentes con los requisitos legales y otros requisitos.                                 
+          .row.justify-content-center.align-items-center(titulo="9. Evaluación de desempeño")
+            .col-11
+              h4 9.1 Seguimiento, medición, análisis y evaluación del desempeño.
+              p.ps-4 <b>9.1.1 Generalidades</b>
+              ol.lista-ol--cuadro.ps-5
+                li 
+                  span.text-bold 1.
+                  p.mb-0 El grado en que se cumplen los requisitos legales y otros requisitos. 
+              p.ps-4 <b>9.1.2 Evaluación del cumplimiento:</b> la organización debe establecer, implementar y mantener procesos para evaluar el cumplimiento con los requisitos legales y otros requisitos. (<b>véase 6.1.3</b>).   
+              p.ps-4 La organización debe: 
+              ol.lista-ol--cuadro.ps-5
+                li 
+                  span.text-bold c.
+                  p.mb-0 Mantener el conocimiento y la comprensión de su estado de cumplimiento con los requisitos legales y otros requisitos.
 
       .col-lg-5.mb-4
         figure

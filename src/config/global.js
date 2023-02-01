@@ -100,21 +100,20 @@ export default {
     {
       tema: 'Matriz de requisitos legales o matriz legal',
       referencia:
-        'PREVENT SGSST. (2019). COMO implementar la MATRIZ LEGAL para el SISTEMA DE GESTIÓN DE SEGURIDAD Y SALUD EN EL TRABAJO (video). YouTube.',
+        'PREVENT SGSST. (2019). <i>COMO implementar la MATRIZ LEGAL para el SISTEMA DE GESTIÓN DE SEGURIDAD Y SALUD EN EL TRABAJO</i>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=-jY2pm2Kfds&t=1s',
     },
     {
       tema: 'Normativa',
-      referencia:
-        'Virtual Training Lteam. (2015). ISO 9001:2015 (video). YouTube.',
+      referencia: 'Virtual Training Lteam. (2015).<i> ISO 9001:2015</i>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=TEKS9R0nLEY',
     },
     {
       tema: 'Requisitos legales para los diferentes sistemas de gestión',
       referencia:
-        'ISOTools. (s.f.). Herramientas tecnológicas para la gestión de GRC.',
+        'ISOTools. (s.f.). <i>Herramientas tecnológicas para la gestión de GRC</i>.',
       tipo: 'Artículo',
       link:
         'https://www.isotools.org/2020/10/30/herramientas-tecnologicas-para-la-gestion-de-grc/',
@@ -122,7 +121,7 @@ export default {
     {
       tema: 'Normativa',
       referencia:
-        'Procem Consultores. (2022). Pasos para implementar un SIG (Sistema Integrado de Gestión) (video). YouTube.',
+        'Procem Consultores. (2022). <i>Pasos para implementar un SIG (Sistema Integrado de Gestión)</i>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=1KT7lALoIdI',
     },
