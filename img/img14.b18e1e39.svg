@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="514.5" height="421.183" viewBox="0 0 514.5 421.183">
+  <defs>
+    <filter id="shutterstock_239067772" x="0" y="75.64" width="505.373" height="330.571" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_41768" data-name="Rectángulo 41768" width="479.366" height="415.261" fill="#f9e424" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_43339" data-name="Rectángulo 43339" width="253.962" height="254.894" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_129716" data-name="Grupo 129716" transform="translate(-172 -4036)">
+    <g id="Grupo_119256" data-name="Grupo 119256">
+      <path id="Rectángulo_41748" data-name="Rectángulo 41748" d="M0,0H475.871a0,0,0,0,1,0,0V297.3a20,20,0,0,1-20,20H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(210.129 4139.381)" fill="#eeeffb" stroke="#eeeffb" stroke-width="1"/>
+      <g transform="matrix(1, 0, 0, 1, 172, 4036)" filter="url(#shutterstock_239067772)">
+        <g id="shutterstock_239067772-2" data-name="shutterstock_239067772" transform="translate(9 81.64)" fill="#fff" stroke="#eeeffb" stroke-width="2">
+          <rect width="487.373" height="312.571" rx="19" stroke="none"/>
+          <rect x="1" y="1" width="485.373" height="310.571" rx="18" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_118778" data-name="Grupo 118778" transform="translate(297.705 4147)">
+      <g id="Grupo_118777" data-name="Grupo 118777">
+        <g id="Grupo_118776" data-name="Grupo 118776" clip-path="url(#clip-path-2)">
+          <path id="Trazado_168186" data-name="Trazado 168186" d="M57.933,147.672l-43.522,8.306A119.386,119.386,0,0,1,109.363,16.233l8.306,43.522a75.158,75.158,0,0,0-59.737,87.917" transform="translate(-4.715 -6.24)" fill="#687687"/>
+          <path id="Trazado_168187" data-name="Trazado 168187" d="M155.5,333A119.384,119.384,0,0,1,15.75,238.048l43.522-8.306a75.16,75.16,0,0,0,87.917,59.737Z" transform="translate(-6.054 -88.31)" fill="#4c53b5"/>
+          <path id="Trazado_168188" data-name="Trazado 168188" d="M237.565,310.218,229.259,266.7a75.159,75.159,0,0,0,59.736-87.917l43.523-8.306a119.387,119.387,0,0,1-94.952,139.745" transform="translate(-88.124 -65.528)" fill="#ff2f6d"/>
+          <path id="Trazado_168189" data-name="Trazado 168189" d="M309.735,109.846l-43.522,8.306A75.158,75.158,0,0,0,178.3,58.417L169.99,14.894a119.387,119.387,0,0,1,139.745,94.952" transform="translate(-65.342 -4.901)" fill="#febf10"/>
+          <path id="Trazado_168190" data-name="Trazado 168190" d="M205.973,24.8,158.065,0l12.5,65.509Z" transform="translate(-60.758 0)" fill="#687687"/>
+          <path id="Trazado_168191" data-name="Trazado 168191" d="M346.828,208.824l24.8-47.908-65.509,12.5Z" transform="translate(-117.67 -61.854)" fill="#febf10"/>
+          <path id="Trazado_168192" data-name="Trazado 168192" d="M176.035,348.341l47.908,24.8-12.5-65.509Z" transform="translate(-67.666 -118.251)" fill="#ff2f6d"/>
+          <path id="Trazado_168193" data-name="Trazado 168193" d="M24.8,175.194,0,223.1l65.509-12.5Z" transform="translate(0 -67.342)" fill="#4c53b5"/>
+        </g>
+      </g>
+      <text id="A" transform="matrix(0.501, -0.865, 0.865, 0.501, 44.33, 85.868)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+      <text id="c" transform="translate(50.482 75.378) rotate(-53.225)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">c</tspan></text>
+      <text id="t" transform="matrix(0.664, -0.748, 0.748, 0.664, 56.188, 67.85)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">t</tspan></text>
+      <text id="u" transform="matrix(0.727, -0.687, 0.687, 0.727, 60.128, 63.262)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">u</tspan></text>
+      <text id="a-2" data-name="a" transform="matrix(0.796, -0.606, 0.606, 0.796, 66.847, 55.536)" fill="#fff" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">a</tspan></text>
+      <text id="r" transform="matrix(0.846, -0.533, 0.533, 0.846, 74.668, 49.662)" fill="#fff" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">r</tspan></text>
+      <text id="V" transform="matrix(-0.856, -0.517, 0.517, -0.856, 84.706, 208.238)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">V</tspan></text>
+      <text id="e" transform="matrix(-0.792, -0.61, 0.61, -0.792, 74.321, 203.097)" fill="#fff" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">e</tspan></text>
+      <text id="r-2" data-name="r" transform="matrix(-0.735, -0.678, 0.678, -0.735, 66.543, 197.02)" fill="#fff" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">r</tspan></text>
+      <text id="i" transform="matrix(-0.692, -0.722, 0.722, -0.692, 60.953, 193.189)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">i</tspan></text>
+      <text id="f" transform="matrix(-0.647, -0.762, 0.762, -0.647, 59.081, 188.394)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">f</tspan></text>
+      <text id="i-2" data-name="i" transform="matrix(-0.6, -0.8, 0.8, -0.6, 53.301, 184.637)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">i</tspan></text>
+      <text id="c-2" data-name="c" transform="translate(51.995 179.722) rotate(-122.442)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">c</tspan></text>
+      <text id="a-3" data-name="a" transform="translate(46.04 172.243) rotate(-116.489)" fill="#fff" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">a</tspan></text>
+      <text id="r-3" data-name="r" transform="translate(41.732 163.454) rotate(-111.399)" fill="#fff" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">r</tspan></text>
+      <text id="H" transform="matrix(-0.529, 0.849, -0.849, -0.529, 209.272, 169.984)" fill="#fff" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">H</tspan></text>
+      <text id="a-4" data-name="a" transform="matrix(-0.628, 0.778, -0.778, -0.628, 202.373, 180.882)" fill="#fff" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">a</tspan></text>
+      <text id="c-3" data-name="c" transform="translate(195.529 187.776) rotate(134.817)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">c</tspan></text>
+      <text id="e-2" data-name="e" transform="matrix(-0.774, 0.633, -0.633, -0.774, 189.563, 195.222)" fill="#fff" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">e</tspan></text>
+      <text id="r-4" data-name="r" transform="translate(181.876 201.419) rotate(145.812)" fill="#fff" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">r</tspan></text>
+      <text id="P" transform="matrix(0.9, 0.436, -0.436, 0.9, 162.009, 40.234)" fill="#fff" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">P</tspan></text>
+      <text id="l" transform="matrix(0.858, 0.514, -0.514, 0.858, 173.066, 44.646)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">l</tspan></text>
+      <text id="a-5" data-name="a" transform="matrix(0.815, 0.58, -0.58, 0.815, 176.728, 47.888)" fill="#fff" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">a</tspan></text>
+      <text id="n" transform="translate(184.024 54.277) rotate(41.564)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">n</tspan></text>
+      <text id="i-3" data-name="i" transform="translate(193.002 59.711) rotate(46.176)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">i</tspan></text>
+      <text id="f-2" data-name="f" transform="matrix(0.647, 0.762, -0.762, 0.647, 194.876, 64.508)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">f</tspan></text>
+      <text id="i-4" data-name="i" transform="matrix(0.6, 0.8, -0.8, 0.6, 200.647, 68.252)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">i</tspan></text>
+      <text id="c-4" data-name="c" transform="translate(201.96 73.174) rotate(57.55)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">c</tspan></text>
+      <text id="a-6" data-name="a" transform="translate(207.914 80.65) rotate(63.5)" fill="#fff" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">a</tspan></text>
+      <text id="r-5" data-name="r" transform="translate(212.225 89.442) rotate(68.593)" fill="#fff" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">r</tspan></text>
+      <text id="CICLO" transform="translate(93.089 116.276)" fill="#12263f" font-size="24" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">CIC</tspan><tspan y="0" letter-spacing="-0.031em">L</tspan><tspan y="0">O</tspan></text>
+      <text id="PHVA" transform="translate(79.701 155.063)" fill="#12263f" font-size="35" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">PH</tspan><tspan y="0" letter-spacing="-0.036em">V</tspan><tspan y="0">A</tspan></text>
+    </g>
+  </g>
+</svg>
