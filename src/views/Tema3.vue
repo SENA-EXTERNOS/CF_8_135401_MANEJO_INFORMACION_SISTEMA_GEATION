@@ -30,10 +30,10 @@
             p Su enfoque se fundamenta en la <b>gestión de la calidad</b>, haciendo especial énfasis en la satisfacción del cliente, la capacidad productiva y la eficiencia en la prestación de servicios, asegurando el cumplimiento de los requerimientos de la organización, tanto a nivel interno, como externo.
 
           .tarjeta.tarjeta--blanca.p-3(x="87%" y="11%" numero="2")
-            p Su enfoque se fundamenta en la <b>gestión ambiental</b>, permite gestionar los recursos de la organización, minimizando su impacto ambiental y asegurando el control de los residuos producto de su operación; propende por el mejoramiento en la imagen de la organización y el cumplimiento de las normativas y leyes vigentes, que se relacionan con aspectos medioambientales.
+            p Su enfoque se fundamenta en la #[b gestión ambiental], permite gestionar los recursos de la organización, minimizando su impacto ambiental y asegurando el control de los residuos producto de su operación; propende por el mejoramiento en la imagen de la organización y el cumplimiento de las normativas y leyes vigentes, que se relacionan con aspectos medioambientales.
 
           .tarjeta.tarjeta--blanca.p-3(x="82%" y="80%" numero="3")
-            p Desde el 2018, <b>sustituyó a la OHSAS 18001</b>; su enfoque se fundamenta en la seguridad y la salud en el trabajo y determina los requisitos mínimos a implementar, por parte de las organizaciones en su cotidianidad, con el fin de minimizar los riesgos laborales.
+            p Desde el 2018, #[b sustituyó a la OHSAS 18001]; su enfoque se fundamenta en la seguridad y la salud en el trabajo y determina los requisitos mínimos a implementar, por parte de las organizaciones en su cotidianidad, con el fin de minimizar los riesgos laborales.
           
           .tarjeta.tarjeta--blanca.p-3(x="16%" y="83%" numero="4")
             p Su enfoque se fundamenta en centrarse en la <b>reducción del consumo</b>, minimización de la huella de carbono, así como también en la reducción de costos, promoviendo el uso de energías sostenibles y la eficiencia energética.

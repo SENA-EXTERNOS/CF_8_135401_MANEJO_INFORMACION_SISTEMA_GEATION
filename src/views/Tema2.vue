@@ -93,7 +93,7 @@
 
 
     .row.justify-content-center.mb-5
-      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+      .col-xl-5.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -102,13 +102,13 @@
             h4.mb-3.text-center Diferentes aspectos que son mencionados por la norma
             p.mb-0.text-center.my-5 Es importante que la organización se familiarice con sus características, requerimientos y alcances.
 
-      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+      .col-xl-5.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/temas/tema2/img9.svg", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3.text-center.mt-2 Reporte de ventas semanal
+            h4.mb-3.text-center Elementos concretos que hacen referencia a los aspectos medio ambientales
             p.mb-0.text-center.my-5 Para establecer, entonces, el impacto deseado, basándose en escenarios realistas y posibles.
 
     .row.mb-5
