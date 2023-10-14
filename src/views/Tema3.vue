@@ -74,7 +74,7 @@
             .col-10
               img(src='@/assets/curso/temas/tema3/img6.svg' alt='AvatarTop')
           h4.text-center Capítulo 4
-          p.text-center Contexto de la empresa.
+          p.text-center Contexto de la organización.
 
         .tarjeta.tarjeta--morada.p-4
           .row.justify-content-center.mb-3
@@ -193,7 +193,7 @@
     .row.justify-content-center.mb-5
       .col-lg-7
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
-          .row.justify-content-center.align-items-center(titulo="Contexto de la organización")
+          .row.justify-content-center.align-items-center(titulo="4. Contexto de la organización")
             .col-11
               h4 4.1 Comprensión de la organización y su contexto  
               p.ps-4 La organización debe determinar las cuestiones externas e internas que son pertinentes para su propósito y su dirección estratégica, y que afectan a su capacidad para lograr los resultados previstos de su sistema de gestión de la calidad.
@@ -275,7 +275,7 @@
       .col-lg-8
         .cajon.color-secundario.p-4
           p Determinación del alcance del Sistema de Gestión de la Calidad: el alcance del Sistema de Gestión de la Calidad de la organización, debe estar disponible y mantenerse como información documentada.
-          p La organización debe conservar la información documentada: cuando sea aplicable: 
+          p La organización debe conservar la información documentada cuando sea aplicable: 
           p.ps-3 #[strong a)] sobre los resultados de la revisión.
           p.ps-3 #[strong b)] sobre cualquier requisito nuevo para los productos y servicios.
 
@@ -295,7 +295,7 @@
 
       .col-lg-7
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
-          .row.justify-content-center.align-items-center(titulo="4.1 Contexto de la organización")
+          .row.justify-content-center.align-items-center(titulo="4.1 Comprensión de la organización y su contexto")
             .col-11
               p La organización debe determinar las cuestiones externas e internas que son pertinentes para su propósito y que afectan a su capacidad para lograr los resultados previstos de su sistema de gestión ambiental.
               h4 4.2 Comprensión de las necesidades y expectativas de las partes interesadas
@@ -329,6 +329,9 @@
                   p.mb-0 Estar disponible para las partes interesadas. 
           .row.justify-content-center.align-items-center(titulo="6.1 Acciones para abordar riesgos y oportunidades")
             .col-11
+              p La organización debe establecer objetivos ambientales para las funciones y niveles pertinentes, teniendo en cuenta los aspectos ambientales significativos de la organización y sus requisitos legales y otros requisitos asociados, y considerando sus riesgos y oportunidades.
+
+              p.mb-5 La organización debe planificar cómo se pueden integrar las acciones para el logro de sus objetivos ambientales a los procesos de negocio de la organización.              
               h4 6.1.1 Generalidades  
               p.ps-4 La organización debe establecer, implementar y mantener los procesos necesarios para cumplir los requisitos.
 
@@ -362,11 +365,8 @@
                     p.mb-0 Requisitos legales y otros requisitos. 
                   li 
                     span.text-bold 3.
-                    p.mb-0 Riesgos y oportunidades identificados.                     
-              h4 6.1 Acciones para abordar riesgos y oportunidades 
-              p.ps-4 La organización debe establecer objetivos ambientales para las funciones y niveles pertinentes, teniendo en cuenta los aspectos ambientales significativos de la organización y sus requisitos legales y otros requisitos asociados, y considerando sus riesgos y oportunidades.
-
-              p.ps-4 La organización debe planificar cómo se pueden integrar las acciones para el logro de sus objetivos ambientales a los procesos de negocio de la organización.                                           
+                    p.mb-0 Riesgos y oportunidades identificadas.                     
+                                         
           .row.justify-content-center.align-items-center(titulo="7.3 Toma de conciencia")
             .col-11
               p La organización debe asegurarse que las personas que realicen el trabajo bajo el control de la organización, tomen conciencia de: 
@@ -388,7 +388,7 @@
           .row.justify-content-center.align-items-center(titulo="8. Operación")
             .col-11
               h4 8.1 Planificación y control operacional
-              p.ps-4 La organización debe establecer, implementar, controlar y mantener los procesos necesarios para satisfacer los requisitos del sistema de gestión ambiental y para implementar las acciones determinadas. en los apartados 6.1 y 6.2, mediante:
+              p.ps-4 La organización debe establecer, implementar, controlar y mantener los procesos necesarios para satisfacer los requisitos del sistema de gestión ambiental y para implementar las acciones determinadas en los apartados 6.1 y 6.2, mediante:
  
               ol.lista-ol--cuadro.ps-5
                 li 
@@ -475,12 +475,12 @@
           .row.justify-content-center.align-items-center(titulo="6. Planificación")
             .col-11
               h4 6.1 Acciones para abordar riesgos y oportunidades
-              p.ps-4 <b>6.1.1 Generalidades:</b> al determinar los riesgos y oportunidades para el SG-SST y sus resultados previstos que es necesario abordar, la organización debe tener en cuenta: *los requisitos legales y otros requisitos (<b>véase 6.1.3</b>) 
+              p.ps-4 <b>6.1.1 Generalidades:</b> al determinar los riesgos y oportunidades para el SG-SST y sus resultados previstos que es necesario abordar, la organización debe tener en cuenta: los requisitos legales y otros requisitos (<b>véase 6.1.3</b>) 
               p.ps-4 <b>6.1.3 Determinación de los requisitos legales y otros requisitos:</b> la organización debe establecer, implementar y mantener procesos para: 
               ol.lista-ol--cuadro.ps-5
                 li 
                   span.text-bold a.
-                  p.mb-0 Determinar y tener acceso a los requisitos legales y otros requisitos actualizados que son aplicables a sus peligros, riesgos y su SGSST.  
+                  p.mb-0 Determinar y tener acceso a los requisitos legales y otros requisitos actualizados que son aplicables a sus peligros, riesgos y su SG-SST.  
                 li 
                   span.text-bold b.
                   p.mb-0 Determinar cómo estos requisitos legales y otros requisitos aplican a la organización y qué necesita comunicarse. 
@@ -513,7 +513,7 @@
             .col-11
               h4 7.4.1 Generalidades.
               h4 7.4.3 Comunicación externa.
-              p.ps-4 Al establecer sus procesos de comunicación, la organización debe: *tener en cuenta sus requisitos legales y otros requisitos. 
+              p.ps-4 Al establecer sus procesos de comunicación, la organización debe tener en cuenta sus requisitos legales y otros requisitos. 
 
           .row.justify-content-center.align-items-center(titulo="8.1.3 Gestión del cambio")
             .col-11

@@ -198,7 +198,7 @@ export default {
     },
     {
       referencia:
-        'Nueva ISO. (2016). <i>Documentos obligatorios en la norma ISO45001:2015.</i>',
+        'Nueva ISO. (2016). <i>Documentos obligatorios en la nueva ISO45001:2015.</i>',
       link:
         'https://www.nueva-iso-45001.com/2016/02/los-documentos-obligatorios-en-la-nueva-iso-45001/ ',
     },

@@ -182,14 +182,28 @@
             p Se implementan en la organización los planes de acción diseñados en la fase anterior.
 
           .row(numero="3" titulo="Verificar")
-            p Se verifica la relación entre la planeación y las acciones efectivamente ejecutadas.
-            p Se analizan e incorporan las mejoras alcanzadas.
-            p Se establecen las brechas entre lo planeado y lo efectivamente logrado, a partir del proceso de implementación.
+            ul.lista-ul--color
+              li 
+                i.fas.fa-circle.color-vineta2
+                | Se verifica la relación entre la planeación y las acciones efectivamente ejecutadas.
+              li 
+                i.fas.fa-circle.color-vineta2
+                | Se analizan e incorporan las mejoras alcanzadas.
+              li 
+                i.fas.fa-circle.color-vineta2
+                | Se establecen las brechas entre lo planeado y lo efectivamente logrado, a partir del proceso de implementación.
 
           .row(numero="4" titulo="Actuar")
-            p Se identifican las principales dificultades afrontadas durante la implementación.
-            p Se formulan las oportunidades de mejora de la organización.
-            p Se identifican y registran las carencias evidenciadas en el proceso, con el fin de definir acciones para mitigarlas.
+            ul.lista-ul--color
+              li 
+                i.fas.fa-circle.color-vineta2
+                | Se identifican las principales dificultades afrontadas durante la implementación.
+              li 
+                i.fas.fa-circle.color-vineta2
+                | Se formulan las oportunidades de mejora de la organización.
+              li 
+                i.fas.fa-circle.color-vineta2
+                | Se identifican y registran las carencias evidenciadas en el proceso, con el fin de definir acciones para mitigarlas.
 
     .row.justify-content-center.mb-5
       .col-lg-10
